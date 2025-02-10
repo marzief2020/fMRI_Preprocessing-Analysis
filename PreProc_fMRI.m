@@ -1,6 +1,4 @@
-% Preprocessing steps: 
-% 1st level GLM
-% Marzieh Fereidouni- 2024
+% Preprocessing 
 
 close all; clear all; clc;
 
