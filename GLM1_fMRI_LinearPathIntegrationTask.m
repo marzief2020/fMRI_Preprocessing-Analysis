@@ -1,6 +1,4 @@
-% Preprocessing steps: modified version of standardPreproc.m by Stephan Heunis 2018
 % 1st level GLM
-% Marzieh Fereidouni- 2024
 
 close all; clear all; clc;
 
